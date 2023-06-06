@@ -1,0 +1,49 @@
+[{
+	"inputs": [{
+		"internalType": "string",
+		"name": "topLevelDomain",
+		"type": "string"
+	}, {
+		"internalType": "string",
+		"name": "domain",
+		"type": "string"
+	}, {
+		"internalType": "uint256",
+		"name": "chainCode",
+		"type": "uint256"
+	}],
+	"name": "addr",
+	"outputs": [{
+		"internalType": "address payable",
+		"name": "",
+		"type": "address"
+	}],
+	"stateMutability": "view",
+	"type": "function"
+}, {
+	"inputs": [{
+		"internalType": "string",
+		"name": "topLevelDomain",
+		"type": "string"
+	}, {
+		"internalType": "uint256",
+		"name": "chainCode",
+		"type": "uint256"
+	}, {
+		"internalType": "string",
+		"name": "domain",
+		"type": "string"
+	}, {
+		"internalType": "string",
+		"name": "key",
+		"type": "string"
+	}],
+	"name": "text",
+	"outputs": [{
+		"internalType": "string",
+		"name": "",
+		"type": "string"
+	}],
+	"stateMutability": "view",
+	"type": "function"
+}]
