@@ -2,7 +2,7 @@
 
 ### 认证合约ABI
 
-
+[ABI](./ChainStore.abi)
 
 ### BSN-DDC认证区块链合约地址
 <table>
