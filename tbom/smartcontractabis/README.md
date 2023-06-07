@@ -19,6 +19,6 @@
     </tr>
     <tr>
         <td>文昌链</td>
-        <td></td>
+        <td>0x1adf71665693b2d8abc960d41d57f04111113fd4</td>
     </tr>
 </table>
