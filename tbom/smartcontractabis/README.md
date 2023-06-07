@@ -15,7 +15,7 @@
     </tr>
     <tr>
         <td>泰安链</td>
-        <td></td>
+        <td>0xbe4f30e06f0096d20c81ec5d6107765014b74dc8</td>
     </tr>
     <tr>
         <td>文昌链</td>
