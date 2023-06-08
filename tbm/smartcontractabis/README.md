@@ -6,7 +6,7 @@
 
 [ABI](./ChainStore.abi)
 
-### BSN-DDC认证区块链合约地址
+### BSN延安链认证合约地址
 <table>
     <tr>
         <td>被认证区块链</td>
